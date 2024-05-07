@@ -2,3 +2,4 @@
 
 ![](https://komarev.com/ghpvc/?username=Rainebott)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainebott)](https://github.com/anuraghazra/github-readme-stats)
