@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rainebott&theme=youtube-dark&card_width=1500&card_height=250)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rainebott&theme=youtube-dark&card_width=900&card_height=250)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Rainebott)
 
